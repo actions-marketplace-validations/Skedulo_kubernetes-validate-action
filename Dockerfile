@@ -1,4 +1,4 @@
-FROM ghcr.io/willthames/kubernetes-validate:v1.34.1
+FROM ghcr.io/willthames/kubernetes-validate:v1.35.0
 
 RUN apk add sed
 
